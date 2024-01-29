@@ -1,0 +1,10 @@
+**/*.sh
+**/*.nc
+**/*.exe
+**/*.out
+build
+**/ocean.output*
+**/output.*
+**/*.o
+**/*.mod
+**/Makefile
